@@ -1,0 +1,14 @@
+  /**/
+.button{
+  margin-top: 20px;
+}
+
+body{
+  background-color: rgb(22, 123, 182);
+  text-align: center;
+}
+
+.imagem{
+  height: 200px;
+  width: 100%;
+}
